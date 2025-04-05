@@ -1,6 +1,8 @@
 # 📚 SQL Learning Notes – Manipulation Section
 
-Welcome to my notes from the **Manipulation** section of Codecademy’s *Learn SQL* course! This section covered six essential SQL commands used to manage data stored in relational databases.
+Welcome to my notes from the **Manipulation** section of *Codecademy’s Learn SQL* course! These exercises are also helping me prepare for the **WGU D427 – Data Management: Applications** course.
+
+This section covered six essential SQL commands used to manage data stored in relational databases.
 
 ---
 
@@ -64,5 +66,4 @@ Stay tuned!
 
 ---
 
-👩‍💻 *Built with love while studying for the DP-900 & mastering SQL basics.*
-
+👩‍💻 *Built with love while studying SQL fundamentals through Codecademy and preparing for WGU's D427 course.*
